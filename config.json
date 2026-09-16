@@ -1,6 +1,9 @@
 {
-  "donate_url": "https://pay.cloudtips.ru/p/твоя-ссылка",
-  "btn_text": "❤️ Поддержать проект",
-  "promo_url": "",
-  "promo_text": "⚡️ Купить Premium-подписку ProxyTune"
+  "donate_url": "https://pay.cloudtips.ru/p/ce527a5c",
+  "btn_text": "❤️ Поддержать автора",
+  "donate_subtext": "CloudTips от Т-Банка",
+  
+  "promo_url": "https://t.me/sobolevcode",
+  "promo_text": "⚡️ Настроить свой VPN",
+  "promo_subtext": "Инструкция за 5 минут"
 }
